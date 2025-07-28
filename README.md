@@ -8,10 +8,13 @@
 - **Augmented Reality on Apple Vision Pro** - I'm exploring spatial experiences through code to create 3D experiences
 - **ML & Distributed Systems** – Cat face recognition, AWS backends, and more
 
-## Languages & Tools
+## Languages & Tools (Tech Stack)
 
 - **Languages:** Swift, Java, JavaScript, TypeScript Python, R, SQL, HTML, CSS, SQL  
 - **Frameworks/Libs:** SwiftUI, CoreData, React.js, Node.js, SwiftData, MantineUI, Bootstrap CSS, Firebase, Springboot
 - **Tools:** Xcode, Firebase, Git, Figma, VSCode, RStudio, Vite, ggplot2, CoreML, CreateML, AWS Lambda, Pandas/NumPy
 
-# Check out my portfolio! (https://kelliehoportfolio.framer.website/)
+## Check out my portfolio here: (https://kelliehoportfolio.framer.website/)
+
+### Thanks for stopping by!
+
