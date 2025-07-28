@@ -14,7 +14,6 @@
 - **Frameworks/Libs:** SwiftUI, CoreData, React.js, Node.js, SwiftData, MantineUI, Bootstrap CSS, Firebase, Springboot
 - **Tools:** Xcode, Firebase, Git, Figma, VSCode, RStudio, Vite, ggplot2, CoreML, CreateML, AWS Lambda, Pandas/NumPy
 
-## Check out my portfolio here: (https://kelliehoportfolio.framer.website/)
 
-### Thanks for stopping by!
+### Check out my portfolio here: (https://kelliehoportfolio.framer.website/). Thanks for stopping by!
 
