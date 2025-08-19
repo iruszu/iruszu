@@ -14,6 +14,3 @@
 - **Frameworks/Libs:** SwiftUI, CoreData, React.js, Node.js, SwiftData, MantineUI, Bootstrap CSS, Firebase, Springboot
 - **Tools:** Xcode, Firebase, Git, Figma, VSCode, RStudio, Vite, ggplot2, CoreML, CreateML, AWS Lambda, Pandas/NumPy
 
-
-### Check out my portfolio here: https://kellieho.framer.ai/. Thanks for stopping by!
-
