@@ -1,4 +1,4 @@
-## Hi👋, I’m Kellie! I love to design & develop user-friendly apps that help people in need.
+## Hi👋, I’m Kellie! 
 
 🎓 I'm a second-year student in the **Business & Computer Science (BUCS)** program with a minor in **Data Science**.
 
