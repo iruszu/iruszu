@@ -6,9 +6,6 @@ I'm a second-year student in the **Business & Computer Science (BUCS)** program 
 <br>
 
 <div align="center">
-  <a href="kellieh.exe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://linkedin.com/in/kellieho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
