@@ -1,6 +1,6 @@
 # Hi, I'm Kellie 👋
 
-iOS engineer and Business + Computer Science student at **UBC** in Vancouver. I build native Apple-platform apps and I'm interested in what it takes to keep an app optimized and reliable as it scales to millions of users
+iOS engineer and Business + Computer Science Major, Data Science Minor student at **UBC** in Vancouver. I build native Apple-platform apps and I'm interested in what it takes to keep an app optimized and reliable as it scales to millions of users
 
 - 🍎 Previously **iOS Engineering Intern at Apple** on the Sports app team (New York)
 - 🍎 Returning **iOS Engineering Intern at Apple** on the Sports app team (New York)
